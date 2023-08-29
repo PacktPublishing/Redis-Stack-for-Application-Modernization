@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "redis": "^4.6.5",
+    "redis-om": "^0.4.0-beta.2"
+  },
+  "author": "Luigi Fugaro",
+  "license": "ISC"
+}
