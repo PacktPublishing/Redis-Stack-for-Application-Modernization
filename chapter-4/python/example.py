@@ -8,7 +8,7 @@ departmentList = ['Sales','Solution Architects','Technical Enablement Managers']
 client.lpush("redis:departments", *departmentList)
 print(client.lrange("redis:departments", 0, -1))
 print(client.rpop("redis:departments"))
-print(client.lrange("redis:departments", 0, 10))
+print(client.lrange("redis:departments", 0, -1))
 
 favouriteCitySet = {'Macerata','Roma','Atlantis'}
 print(favouriteCitySet)
