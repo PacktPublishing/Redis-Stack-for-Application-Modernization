@@ -42,7 +42,7 @@ namespace dotnetcsharp
             mirko.Office = macerataOffice;
             Console.WriteLine("Employee: {0}", mirko);
 
-            var provider = new RedisConnectionProvider("redis://default:redis-stack@redis-13461.c238.us-central1-2.gce.cloud.redislabs.com:13461");
+            var provider = new RedisConnectionProvider("redis://<USERNAME:PASSWORD>@localhost:6379");
             var employees = provider.RedisCollection<Employee>();
             var connection = provider.Connection;
             var indexCreated = connection.CreateIndex(typeof(Employee));

@@ -1,7 +1,7 @@
 ﻿using dotnetcsharp;
 using StackExchange.Redis;
 
-ConnectionMultiplexer redis = ConnectionMultiplexer.Connect("redis-13461.c238.us-central1-2.gce.cloud.redislabs.com:13461,password=redis-stack");
+ConnectionMultiplexer redis = ConnectionMultiplexer.Connect("localhost:6379,username=<USERNAME>,password=<PASSWORD>");
 IDatabase db = redis.GetDatabase();
 
 db.Execute("FLUSHALL");
