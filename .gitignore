@@ -46,3 +46,6 @@ build/
 ### VS Code ###
 .vscode/
 **/node_modules
+
+**/bin
+**/obj
