@@ -47,5 +47,17 @@ build/
 .vscode/
 **/node_modules
 
+### dotNet with Rider ##
 **/bin
 **/obj
+
+### Python with PyCharm ###
+**/redis-insight
+**/.env
+**/.venv
+**/env/
+**/venv/
+**/ENV/
+**/env.bak/
+**/venv.bak/
+
