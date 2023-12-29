@@ -49,7 +49,6 @@ With the following software and hardware list you can run all code files present
 | 4-7 | Redis Stack 7.2 or later  | Windows, macOS, or Linux |
 | 4-7 | RedisInsight 2.36 or later | Windows, Mac OS or Linux  |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
 ### Related products
 * The MySQL Workshop [[Packt]](https://www.packtpub.com/product/the-mysql-workshop/9781839214905?utm_source=github&utm_medium=repository&utm_campaign=9781839214905) [[Amazon]](https://www.amazon.com/dp/1839214902)
@@ -57,7 +56,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Mastering PostgreSQL 15 [[Packt]](https://www.packtpub.com/product/mastering-postgresql-15-fifth-edition/9781803248349?utm_source=github&utm_medium=repository&utm_campaign=9781803248349) [[Amazon]](https://www.amazon.com/dp/1803248343)
 
 
-## Get to Know the Author
+## Get to Know the Authors
 **Luigi began**
  with computers in the early 80s when he was a kid, with a cool Atari ST1040. He started his career in 1998 as a webmaster doing HTML, JavaScript, Applets and Java Server Pages. Programmer in the soul, software architect by necessity, author by presumption, father by love. Since 2021, Luigi works for Redis as Solutions Architect, evangelizing the Italian country.
  
